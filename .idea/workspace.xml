@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51ed3320-8c5c-4120-b40c-41b51962c82c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/market_maker/custom_strategy.py" afterPath="$PROJECT_DIR$/market_maker/custom_strategy.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/market_maker/market_maker.py" afterPath="$PROJECT_DIR$/market_maker/market_maker.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,13 +17,17 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="market_maker.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="market_maker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/market_maker/market_maker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="202" column="41" lean-forward="false" selection-start-line="202" selection-start-column="24" selection-end-line="202" selection-end-column="41" />
+            <state relative-caret-position="550">
+              <caret line="598" column="25" lean-forward="false" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
+                <element signature="e#564#7375#0" expanded="false" />
+                <element signature="e#7402#22061#0" expanded="false" />
+                <element signature="e#22327#24739#0" expanded="false" />
+                <marker date="1531915080895" expanded="false" signature="22103:24739" ph="..." />
               </folding>
             </state>
           </provider>
@@ -34,22 +36,21 @@
       <file leaf-file-name="bitmex.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/market_maker/bitmex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="298" column="27" lean-forward="false" selection-start-line="298" selection-start-column="21" selection-end-line="298" selection-end-column="27" />
-              <folding>
-                <element signature="e#28#66#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="208">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom_strategy.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom_strategy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/market_maker/custom_strategy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            <state relative-caret-position="572">
+              <caret line="67" column="18" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="67" selection-end-column="18" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#314#2940#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -119,6 +120,7 @@
         <option value="$PROJECT_DIR$/custom_strategy.py" />
         <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/market_maker/custom_strategy.py" />
+        <option value="$PROJECT_DIR$/market_maker/market_maker.py" />
       </list>
     </option>
   </component>
@@ -368,6 +370,10 @@
           <caret line="344" column="21" lean-forward="false" selection-start-line="344" selection-start-column="21" selection-end-line="344" selection-end-column="21" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#564#7375#0" expanded="false" />
+            <element signature="e#7402#22061#0" expanded="false" />
+            <element signature="e#22327#24739#0" expanded="false" />
+            <marker date="1531915080895" expanded="false" signature="22103:24739" ph="..." />
           </folding>
         </state>
       </provider>
@@ -376,9 +382,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7488">
           <caret line="298" column="27" lean-forward="false" selection-start-line="298" selection-start-column="21" selection-end-line="298" selection-end-column="27" />
-          <folding>
-            <element signature="e#28#66#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -388,6 +392,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#314#2940#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -428,6 +433,10 @@
           <caret line="344" column="21" lean-forward="true" selection-start-line="344" selection-start-column="21" selection-end-line="344" selection-end-column="21" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#564#7375#0" expanded="false" />
+            <element signature="e#7402#22061#0" expanded="false" />
+            <element signature="e#22327#24739#0" expanded="false" />
+            <marker date="1531915080895" expanded="false" signature="22103:24739" ph="..." />
           </folding>
         </state>
       </provider>
@@ -436,9 +445,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7488">
           <caret line="298" column="27" lean-forward="false" selection-start-line="298" selection-start-column="21" selection-end-line="298" selection-end-column="27" />
-          <folding>
-            <element signature="e#28#66#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -448,6 +455,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#314#2940#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -484,26 +492,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/custom_strategy.py" />
     <entry file="file://$PROJECT_DIR$/custom_strategy.py" />
-    <entry file="file://$PROJECT_DIR$/market_maker/bitmex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="298" column="27" lean-forward="false" selection-start-line="298" selection-start-column="21" selection-end-line="298" selection-end-column="27" />
-          <folding>
-            <element signature="e#28#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/market_maker/market_maker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="202" column="41" lean-forward="false" selection-start-line="202" selection-start-column="24" selection-end-line="202" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -534,12 +522,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/market_maker/bitmex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/market_maker/custom_strategy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        <state relative-caret-position="572">
+          <caret line="67" column="18" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="67" selection-end-column="18" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#314#2940#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_maker/market_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="598" column="25" lean-forward="false" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#564#7375#0" expanded="false" />
+            <element signature="e#7402#22061#0" expanded="false" />
+            <element signature="e#22327#24739#0" expanded="false" />
+            <marker date="1531915080895" expanded="false" signature="22103:24739" ph="..." />
           </folding>
         </state>
       </provider>

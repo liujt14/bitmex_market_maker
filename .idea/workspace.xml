@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51ed3320-8c5c-4120-b40c-41b51962c82c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/market_maker/market_maker.py" afterPath="$PROJECT_DIR$/market_maker/market_maker.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="market_maker.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="market_maker.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/market_maker/market_maker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="598" column="25" lean-forward="false" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
+            <state relative-caret-position="420">
+              <caret line="593" column="10" lean-forward="true" selection-start-line="593" selection-start-column="10" selection-end-line="593" selection-end-column="10" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
                 <element signature="e#564#7375#0" expanded="false" />
@@ -80,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="2964">
+              <caret line="114" column="12" lean-forward="false" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -118,9 +118,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/custom_strategy.py" />
-        <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/market_maker/custom_strategy.py" />
         <option value="$PROJECT_DIR$/market_maker/market_maker.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
       </list>
     </option>
   </component>
@@ -492,16 +492,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/custom_strategy.py" />
     <entry file="file://$PROJECT_DIR$/custom_strategy.py" />
-    <entry file="file://$PROJECT_DIR$/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/market_maker/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
@@ -543,14 +533,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/market_maker/market_maker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="598" column="25" lean-forward="false" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
+        <state relative-caret-position="420">
+          <caret line="593" column="10" lean-forward="true" selection-start-line="593" selection-start-column="10" selection-end-line="593" selection-end-column="10" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
             <element signature="e#564#7375#0" expanded="false" />
             <element signature="e#7402#22061#0" expanded="false" />
             <element signature="e#22327#24739#0" expanded="false" />
             <marker date="1531915080895" expanded="false" signature="22103:24739" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2964">
+          <caret line="114" column="12" lean-forward="false" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
